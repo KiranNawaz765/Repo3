@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 82E5-700F
+
+ Directory of C:\Users\kiran.nawaz\demogit1
+
+11/08/2021  11:16 AM    <DIR>          .
+11/08/2021  11:16 AM    <DIR>          ..
+11/08/2021  11:07 AM               352 m1.text
+11/08/2021  11:16 AM                 0 m2.txt
+               2 File(s)            352 bytes
+               2 Dir(s)  111,369,859,072 bytes free
